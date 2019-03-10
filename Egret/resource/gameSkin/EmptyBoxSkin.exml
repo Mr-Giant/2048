@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="100" height="100" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" class="EmptyBoxSkin">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" fillColor="0x686060"/>
+	<e:Group id="mainGroup" left="0" right="0" top="0" bottom="0"/>
+</e:Skin>

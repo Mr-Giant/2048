@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="720" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" class="GameSkin">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x639382"/>
+	<e:Group id="mainGroup" verticalCenter="0" horizontalCenter="0">
+		<e:layout>
+			<e:TileLayout requestedColumnCount="5"/>
+		</e:layout>
+	</e:Group>
+</e:Skin>

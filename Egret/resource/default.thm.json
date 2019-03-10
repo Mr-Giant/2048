@@ -1,0 +1,12 @@
+{
+	"skins": {
+		"eui.VSlider": "resource/eui_skins/VSliderSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/gameSkin/EmptyBoxSkin.exml",
+		"resource/gameSkin/GameSkin.exml",
+		"resource/gameSkin/IntegralBoxSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="100" height="100" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" class="IntegralBoxSkin">
+	<e:Rect id="bjRect" left="0" right="0" top="0" bottom="0" fillColor="0x771c8e"/>
+	<e:Label id="numLabel" text="0" verticalCenter="0" horizontalCenter="0" size="40" fontFamily="Microsoft YaHei" textColor="0x000000"/>
+</e:Skin>
